@@ -1,7 +1,16 @@
 {
   "name": "kson-js",
   "version": "0.0.0",
-  "description": "A starter for creating a TypeScript package.",
+  "description": "TypeScript types and Zod schemas for the KSON (KShootMania/SDVX) chart format.",
+  "keywords": [
+    "chart",
+    "ksh",
+    "kshootmania",
+    "kson",
+    "rhythm-game",
+    "sdvx",
+    "zod"
+  ],
   "homepage": "https://github.com/author/library#readme",
   "bugs": {
     "url": "https://github.com/author/library/issues"
